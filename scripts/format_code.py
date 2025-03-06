@@ -1,0 +1,1 @@
+# Script to auto-format code
