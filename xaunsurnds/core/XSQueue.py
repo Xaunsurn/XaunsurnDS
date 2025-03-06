@@ -1,3 +1,6 @@
+from collections import deque
+from threading import Lock
+
 class Queue:
     """
     A high-performance, thread-safe FIFO (First In, First Out) queue implementation.
